@@ -1,0 +1,14 @@
+.para  {
+
+background-color: blueviolet;
+text-align: center;
+line-height: normal;
+letter-spacing: normal;
+word-spacing: normal;
+}
+
+.spn {
+border-color:  blue;
+border-style: dotted;
+border-width: 6px;
+}
